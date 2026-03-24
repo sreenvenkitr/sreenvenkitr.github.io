@@ -11,4 +11,4 @@ Welcome! These are my notes on ML, Math, and 3D topics.
 
 ## 🤖3D topics
 - [View Notes](3D-topics/)
-- [Download PDF](3D-topics/3D-point-cloud/latest.pdf)
+- [Download PDF](3D-topics/3D-point-cloud/Linear Algebra_latest.pdf)
